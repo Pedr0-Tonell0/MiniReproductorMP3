@@ -1,0 +1,6 @@
+li:hover{
+	box-shadow: 2px 1px 2px 3px #99ccff;
+	background:#00a608;
+	color:#fff;
+	transition: background-color 1.15s ease-in-out,border-color 1.15s ease-in-out,box-shadow 1.15s ease-in-out;
+}

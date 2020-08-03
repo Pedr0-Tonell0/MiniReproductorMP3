@@ -1,0 +1,26 @@
+{
+	"songs":[
+		{
+			"id":0,
+			"name":"The hardest",
+			"artist":"Gasoline",
+			"song":"music/TheHardest.mp3",
+			"image":"img/gasoline.jpeg"
+		},
+		{
+			"id":1,
+			"name":"Muy tranquilo",
+			"artist":"Gramatik",
+			"song":"music/MuyTranquilo.mp3",
+			"image":"img/gramatik.jpeg"
+		},
+		{
+			"id":2,
+			"name":"Blue bird",
+			"artist":"Our Samples",
+			"song":"music/BlueBird.mp3",
+			"image":"img/our.jpeg"
+		}
+		
+	]
+}
